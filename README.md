@@ -1,7 +1,5 @@
-## Hi there 👋
 
 <img src="capa.gif"/>
-
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <p align= 'center' ><em>
