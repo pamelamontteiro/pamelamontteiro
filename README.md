@@ -1,12 +1,7 @@
 ## Hi there 👋
 
-<table style="margin: 0px auto;">
-  <tr  >
-    <td  valign="top"><img src="charmy black clover.gif" width = '180px' height = '200px' style="margin-right: 20px;"/> <img src="anya.gif" width = '180px' height = '200px'style="margin-right: 20px;"/> <img src="charmy black clover.2.gif" width = '180px' height = '200px'/></td>
-   
-    
-  </tr>
-</table>
+<img src="capa.gif"/>
+
 
 <h1 align = 'center' > Bem vindo(a)! </h1>
 <p align= 'center' ><em>
