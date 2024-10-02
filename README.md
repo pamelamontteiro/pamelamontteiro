@@ -13,16 +13,18 @@
 
 
 ## Habilidades Técnicas 
-- Linguagens e Tecnologias: PYTHON, GO, JavaScript, CSS, HTML,  SQl e MySql.
+- Linguagens e Tecnologias: PYTHON, GO, JavaScript, CSS, HTML,  SQl, MySql e PostGreSQL + PostGIS.
 - Ferramentas e Metodologias: Metodologias Ágeis, Git, GitHub
 
 ## Experiencias Praticas 
 
 <b>  MONITORIA UFSC </b>
-  - Análise de Dados: Limpeza, manipulação e interpretação de grandes volumes de dados.
-  - Estatística: Análise estatística, testes de hipótese, distribuições de probabilidade.
+  - Análise de Dados: Limpeza, manipulação e interpretação de grandes volumes de dados;
+  - Estatística: Análise estatística, testes de hipótese, distribuições de probabilidade;
   - Manipulação de Dados: Excel avançado, pivot tables, fórmulas.
-  - Dados estaticos de Vazões Hidrologicos 
+  - Dados estaticos de Vazões Hidrologicos;
+  - Análise de frequência e previsão de eventos extremos em dados de vazões hidrológicas;
+  - Modelos hidrológicos e climáticos baseados em dados;
 
 <b> INICIAÇÂO CIENTIFICA - 
 (LAUTEC) - UFSC </b> 
