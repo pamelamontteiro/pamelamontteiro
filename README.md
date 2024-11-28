@@ -18,7 +18,7 @@
 
 ## Experiencias Praticas 
 
-<b>  MONITORIA UFSC </b>
+[<b>  MONITORIA UFSC </b>](https://drive.google.com/file/d/1SaZKZqCLgirvBhReXTq4lTsuqOp3VVzn/view?usp=sharing)
   - Análise de Dados: Limpeza, manipulação e interpretação de grandes volumes de dados;
   - Estatística: Análise estatística, testes de hipótese, distribuições de probabilidade;
   - Manipulação de Dados: Excel avançado, pivot tables, fórmulas.
