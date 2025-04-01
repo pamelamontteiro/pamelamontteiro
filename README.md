@@ -13,8 +13,11 @@
 
 
 ## Habilidades Técnicas 
-- Linguagens e Tecnologias: PYTHON, GO, JavaScript, CSS, HTML,  SQl, MySql e PostGreSQL + PostGIS.
-- Ferramentas e Metodologias: Metodologias Ágeis, Git, GitHub
+- 📌 **Linguagens:** Python, SQL  e R 
+- **🛠 Ferramentas e Metodologias:** Git, GitHub, Metodologias Ágeis
+- **📊 Banco de Dados**: SQL, MySQL, PostgreSQL + PostGIS
+- **📈 Análise de Dados e Estatística:** Pandas, NumPy, Matplotlib, 
+- 📊 **Visualização:** Tableau  
 
 ## Experiencias Praticas 
 
@@ -28,13 +31,23 @@
 
 <b> INICIAÇÂO CIENTIFICA - 
 (LAUTEC) - UFSC </b> 
-  - Programação para Análise: Python (pandas, Matplotlib)
+  - Programação para Análise: Python (Pandas e Matplotlib)
   - Banco de Dados Relacional: SQL, MySql, PostGreSQL + PostGIS(consulta, otimização de consultas).
   - Geoprocessamento - Análise de índices espaciais no PostGIS, normalização e limpeza dos dados geográficos para inserção nos bancos utilizando ArcGIS, otimização de consultas, recuperar dados através do Google Earth Engene API, e uso de diversas funções no ArcGIS. 
 
 <br>
 
-<img align="right" alt="" height="190px" src="study.gif">
+### 📂 Projetos no GitHub
+
+Aqui estão alguns dos meus principais projetos:
+
+🔹 [Projeto 1 - Análise de Dados Espaciais](https://github.com/pamelamontteiro/spatial-data-analysis-R)
+
+🔹 [Projeto 2 - Projeto Final de Programação orientada de Objetos](https://github.com/pamelamontteiro/AdocaoPetsPOO)
+
+🔹 [Visualização de Dados em Vigilância em Saúde (Dengue) com R](https://github.com/pamelamontteiro/r-data-viz)
+
+<img align="right" alt="" height="190px" src="Dados.gif">
 
 <h3 align="left"> Fala Comigo! </h3>
 
