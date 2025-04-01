@@ -9,7 +9,7 @@
 
 
 
-Olá! Sou **Pamela Monteiro**, estudante de **Ciência da Computação - UFSC**, em transição para tecnologia. Iniciei em Engenharia Ambiental, onde participei de pesquisas em geoprocessamento e descobri minha paixão por Dados e programação. Com experiência em análise de dados hidrológicos, sigo explorando Data Science e Inteligência Artificial para gerar impacto positivo.
+Olá! Sou **Pamela Monteiro**, estudante de **Ciência da Computação - UFSC**, em transição para tecnologia. Iniciei em Engenharia Ambiental, onde participei de pesquisas em geoprocessamento e descobri minha paixão por Dados e programação. Com experiência em análise de dados hidrológicos, sigo explorando Data Analytics, Data Science e Inteligência Artificial para gerar impacto positivo.
 
 ## Habilidades Técnicas 
 - 📌 **Linguagens:** Python e R 
