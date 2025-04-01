@@ -1,16 +1,8 @@
+## Olá, prazer em conhecer você! :wave:
+<img align="right" alt="GIF" src="Dados.gif" width="500" height="400" />
 
-<div align="center">
-<!-- ========================= apresentação ========================= -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+!+I'm+Pamela+Monteiro;Welcome+to+my+profile+^-^&color=A020F0&center=true)](https://git.io/typing-svg)
-
-</div> 
-
-<div style="display: inline_block"><br>
-
-## Sobre Mim 👩🏻‍💻
-- Olá! Sou <b> Pamela Monteiro</b>, estudante de <b>Ciências da Computação -  UFSC </b> e em transição de carreira para a área de tecnologia. Comecei cursando Engenharia Ambiental, onde participei de duas <b> iniciações científicas - UFSC </b> focadas em geoprocessamento. Na segunda, tive meu primeiro contato com Python, o que despertou meu interesse por dados e programação. Além disso, fui <b> Monitora de Hidrologia</b> por um ano, trabalhando com análise de dados e estatísticas de vazões hidrológicas.
-
+Olá! Sou **Pamela Monteiro**, estudante de **Ciência da Computação - UFSC**, em transição para tecnologia. Iniciei em Engenharia Ambiental, onde participei de pesquisas em geoprocessamento e descobri minha paixão por Dados e programação. Com experiência em análise de dados hidrológicos, sigo explorando Data Science e Inteligência Artificial para gerar impacto positivo.
 
 ## Habilidades Técnicas 
 - 📌 **Linguagens:** Python e R 
@@ -70,4 +62,3 @@ Aqui estão alguns dos meus principais projetos:
 #
 <br>
 
-<img src="Dados.gif" width="500"/>
