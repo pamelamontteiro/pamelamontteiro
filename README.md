@@ -13,10 +13,10 @@
 
 
 ## Habilidades Técnicas 
-- 📌 **Linguagens:** Python, SQL  e R 
-- **🛠 Ferramentas e Metodologias:** Git, GitHub, Metodologias Ágeis
+- 📌 **Linguagens:** Python e R 
+- **🛠 Ferramentas e Metodologias:** Git, GitHub e Metodologias Ágeis
 - **📊 Banco de Dados**: SQL, MySQL, PostgreSQL + PostGIS
-- **📈 Análise de Dados e Estatística:** Pandas, NumPy, Matplotlib, 
+- **📈 Análise de Dados e Estatística:** Pandas, NumPy e Matplotlib 
 - 📊 **Visualização:** Tableau  
 
 ## Experiencias Praticas 
@@ -47,15 +47,10 @@ Aqui estão alguns dos meus principais projetos:
 
 🔹 [Visualização de Dados em Vigilância em Saúde (Dengue) com R](https://github.com/pamelamontteiro/r-data-viz)
 
-<img align="right" alt="" height="190px" src="Dados.gif">
 
-<h3 align="left"> Fala Comigo! </h3>
+<!-- <h3 align="left"> TECNOLOGIAS </h3> -->
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/pamelamontteiro/)
-
-<h3 align="left"> TECNOLOGIAS </h3>
-
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3"  />
@@ -70,8 +65,9 @@ Aqui estão alguns dos meus principais projetos:
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  /> 
 </div>
-<br>
+<br> -->
 
 #
 <br>
 
+<img src="Dados.gif" width="500"/>
