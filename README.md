@@ -1,5 +1,7 @@
 ## Olá, prazer em conhecer você! :wave:
-<img align="right" alt="GIF" src="img/Dados.gif" width="400" height="300" />
+
+
+<img align="right" alt="GIF" src="img/Dados.gif" width="300" height="280" />
 
 
 Olá! Sou **Pamela Monteiro**, estudante de **Ciência da Computação - UFSC**, em transição para tecnologia. Iniciei em Engenharia Ambiental, onde participei de pesquisas em geoprocessamento e descobri minha paixão por Dados e programação. Com experiência em análise de dados hidrológicos, sigo explorando Data Science e Inteligência Artificial para gerar impacto positivo.
